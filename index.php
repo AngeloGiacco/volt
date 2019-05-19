@@ -94,7 +94,7 @@
         <footer>
             <div class="container">
                 <div class="copyright">
-                    <p>Implemented by Angelo Giacco. <a href="http://twitter.com/giaccoangelo" target="_blank">Follow me on Twitter</a>.</p>
+                    <p>Charity made by Angelo Giacco and Vijjasena Sugiono. Website implemented by Angelo Giacco. <a href="http://twitter.com/giaccoangelo" target="_blank">Follow me on Twitter</a>.</p>
                 </div>
                 <div class="social">
                     Share This:
