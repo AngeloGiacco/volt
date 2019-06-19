@@ -8,4 +8,4 @@ friendzone_enabled: true
 message: thanks for contributing! The owner will be following you shortly
 
 #this will automatically follow a new contributor
-auto-follow: true
+auto_follow: true
