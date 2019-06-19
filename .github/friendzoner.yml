@@ -1,7 +1,7 @@
 #set the following variables depending on what you want
 
 #check you follow the user when they make their first issue/PR
-friendzone_enabled: false
+friendzone_enabled: true
 
 #message that you want the bot to send to an unfollowed issue/PR
 #example might be: hey, thanks for contributing, i've recommended to @ownername that they follow you
