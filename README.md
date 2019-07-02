@@ -6,3 +6,5 @@ solution for agrivoltaic production: when land is used for crops and solar energ
 This not only has the advantage of doubling the revenue for the farmer, but also brings to electricity to some
 of the most remote parts of Indonesia. My friend Vijjasena is currently testing the solution 
 he has developed and he will be responsible for spending the funds raised for volt.
+
+Meeting on Friday 
